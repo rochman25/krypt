@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_enkripsi"
+        android:icon="@drawable/baseline_lock_black_24dp"
+        android:title="@string/nav_lock" />
+    <item
+        android:id="@+id/nav_dekripsi"
+        android:icon="@drawable/ic_openlock"
+        android:title="@string/nav_lockopen" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/baseline_tag_faces_black_18dp"
+        android:title="@string/nav_home" />
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Krypt</string>
+    <string name="nav_home">About</string>
+    <string name="nav_lock">Enkripsi</string>
+    <string name="nav_lockopen">Dekripsi</string>
+    <string name="versi">aplication v beeta</string>
+
+    <string name="deskripsi">Aplikasi ini di buat dengan metode Caesar Chiper, diperuntukkan untuk berbagi pesan secara rahasia </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

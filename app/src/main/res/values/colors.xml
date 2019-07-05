@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="whitetrasnparent">#80ffffff</color>
+    <color name="background">#fdfdfe</color>
+    <color name="pinkbl">#d61149</color>
+    <color name="putihbl">#f4f4f4</color>
+    <color name="iconbuttonnav">#bcb9b9</color>
+    <color name="blackmetal">#575a68</color>
+    <color name="pinkunyu">#fd7d7a</color>
+</resources>
